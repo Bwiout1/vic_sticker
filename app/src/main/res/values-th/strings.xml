@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amusing Sticker Box</string>
+    <string name="authorization_succeeded">การอนุญาตสำเร็จแล้ว!</string>
+    <string name="checkPermission_Authorization_succeeded">checkPermission: การอนุญาตสำเร็จแล้ว!</string>
+    <string name="please_open_the_relevant_permissions_otherwise_the_application_cannot_be_used_normally">โปรดเปิดการอนุญาตที่เกี่ยวข้อง ไม่เช่นนั้นแอปพลิเคชันจะไม่สามารถใช้งานได้ตามปกติ!</string>
+    <string name="create_sticker">สร้างสติกเกอร์</string>
+    <string name="all_photos">รูปภาพทั้งหมด</string>
+    <string name="text">ข้อความ</string>
+    <string name="cropping">การครอบตัด</string>
+    <string name="manual_crop">ครอบตัดด้วยตนเอง</string>
+    <string name="square_crop">ครอบตัดสี่เหลี่ยม</string>
+    <string name="circle_crop">ครอบตัดวงกลม</string>
+    <string name="edit">แก้ไข</string>
+    <string name="emoji">อีโมจิ</string>
+    <string name="are_you_sure_want_to_exit">คุณแน่ใจหรือไม่ว่าต้องการออก?</string>
+    <string name="exit">ออก</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="sticker_pack_name">ชื่อชุดสติ๊กเกอร์</string>
+    <string name="pack_icon">ไอคอนแพ็ค</string>
+    <string name="enter_your_pack_name">กรอกชื่อแพ็คของคุณ</string>
+    <string name="enter_owner_name">กรอกชื่อเจ้าของ</string>
+    <string name="create_now">สร้างตอนนี้</string>
+    <string name="add_sticker">เพิ่มสติ๊กเกอร์</string>
+    <string name="my_work">งานของฉัน</string>
+    <string name="my_own_sticker">สติ๊กเกอร์ของฉันเอง</string>
+    <string name="font_change">เปลี่ยนแบบอักษร</string>
+</resources>

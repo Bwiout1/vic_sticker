@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amusing Sticker Box</string>
+    <string name="authorization_succeeded">Autorisierung erfolgreich!</string>
+    <string name="checkPermission_Authorization_succeeded">checkPermission: Autorisierung erfolgreich!</string>
+    <string name="please_open_the_relevant_permissions_otherwise_the_application_cannot_be_used_normally">Bitte öffnen Sie die entsprechenden Berechtigungen, sonst kann die Anwendung nicht normal verwendet werden!</string>
+    <string name="create_sticker">Aufkleber erstellen</string>
+    <string name="all_photos">Alle Fotos</string>
+    <string name="text">Text</string>
+    <string name="cropping">Zuschneiden</string>
+    <string name="manual_crop">Manueller Zuschnitt</string>
+    <string name="square_crop">Quadratischer Zuschnitt</string>
+    <string name="circle_crop">Kreiszuschnitt</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="emoji">Emoji</string>
+    <string name="are_you_sure_want_to_exit">Sind Sie sicher, dass Sie beenden möchten?</string>
+    <string name="exit">Beenden</string>
+    <string name="yes">JA</string>
+    <string name="no">NEIN</string>
+    <string name="sticker_pack_name">Name des Aufkleberpakets</string>
+    <string name="pack_icon">Pack-Symbol</string>
+    <string name="enter_your_pack_name">Geben Sie Ihren Paketnamen ein</string>
+    <string name="enter_owner_name">Besitzernamen eingeben</string>
+    <string name="create_now">Jetzt erstellen</string>
+    <string name="add_sticker">Aufkleber hinzufügen</string>
+    <string name="my_work">Meine Arbeit</string>
+    <string name="my_own_sticker">Mein eigener Aufkleber</string>
+    <string name="font_change">Schriftartänderung</string>
+</resources>

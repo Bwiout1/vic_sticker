@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amusing Sticker Box</string>
+    <string name="authorization_succeeded">授權成功！</string>
+    <string name="checkPermission_Authorization_succeeded">checkPermission：授權成功！</string>
+    <string name="please_open_the_relevant_permissions_otherwise_the_application_cannot_be_used_normally">請開放相關權限，否則應用程式無法正常使用！</string>
+    <string name="create_sticker">建立貼紙</string>
+    <string name="all_photos">所有照片</string>
+    <string name="text">文字</string>
+    <string name="cropping">裁切</string>
+    <string name="manual_crop">手動裁切</string>
+    <string name="square_crop">方形裁切</string>
+    <string name="circle_crop">圓形裁切</string>
+    <string name="edit">編輯</string>
+    <string name="emoji">表情符號</string>
+    <string name="are_you_sure_want_to_exit">您確定要退出嗎？</string>
+    <string name="exit">退出</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="sticker_pack_name">貼紙包名稱</string>
+    <string name="pack_icon">套件圖示</string>
+    <string name="enter_your_pack_name">輸入你的套件名稱</string>
+    <string name="enter_owner_name">輸入擁有者名稱</string>
+    <string name="create_now">立即建立</string>
+    <string name="add_sticker">新增貼紙</string>
+    <string name="my_work">我的工作</string>
+    <string name="my_own_sticker">我自己的貼圖</string>
+    <string name="font_change">字型變更</string>
+</resources>

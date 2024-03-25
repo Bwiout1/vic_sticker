@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amusing Sticker Box</string>
+    <string name="authorization_succeeded">認証に成功しました!</string>
+    <string name="checkPermission_Authorization_succeeded">checkPermission: 認証は成功しました!</string>
+    <string name="please_open_the_relevant_permissions_otherwise_the_application_cannot_be_used_normally">関連する権限を開いてください。そうしないと、アプリケーションは正常に使用できません。</string>
+    <string name="create_sticker">ステッカーの作成</string>
+    <string name="all_photos">すべての写真</string>
+    <string name="text">テキスト</string>
+    <string name="cropping">トリミング</string>
+    <string name="manual_crop">手動トリミング</string>
+    <string name="square_crop">正方形のトリミング</string>
+    <string name="circle_crop">サークルクロップ</string>
+    <string name="edit">編集</string>
+    <string name="emoji">絵文字</string>
+    <string name="are_you_sure_want_to_exit">終了してもよろしいですか?</string>
+    <string name="exit">終了</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="sticker_pack_name">ステッカー パック名</string>
+    <string name="pack_icon">パックアイコン</string>
+    <string name="enter_your_pack_name">パック名を入力してください</string>
+    <string name="enter_owner_name">所有者名を入力してください</string>
+    <string name="create_now">今すぐ作成</string>
+    <string name="add_sticker">ステッカーを追加</string>
+    <string name="my_work">私の作品</string>
+    <string name="my_own_sticker">自分のステッカー</string>
+    <string name="font_change">フォントの変更</string>
+</resources>

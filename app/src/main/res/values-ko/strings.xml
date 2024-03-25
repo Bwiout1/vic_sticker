@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amusing Sticker Box</string>
+    <string name="authorization_succeeded">인증에 성공했습니다!</string>
+    <string name="checkPermission_Authorization_succeeded">checkPermission: 인증 성공!</string>
+    <string name="please_open_the_relevant_permissions_otherwise_the_application_cannot_be_used_normally">해당 권한을 열어주세요. 그렇지 않으면 애플리케이션을 정상적으로 사용할 수 없습니다!</string>
+    <string name="create_sticker">스티커 만들기</string>
+    <string name="all_photos">모든 사진</string>
+    <string name="text">텍스트</string>
+    <string name="cropping">자르기</string>
+    <string name="manual_crop">수동 자르기</string>
+    <string name="square_crop">정사각형 자르기</string>
+    <string name="circle_crop">원 자르기</string>
+    <string name="edit">수정</string>
+    <string name="emoji">이모지</string>
+    <string name="are_you_sure_want_to_exit">정말로 종료하시겠습니까?</string>
+    <string name="exit">종료</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="sticker_pack_name">스티커 팩 이름</string>
+    <string name="pack_icon">팩 아이콘</string>
+    <string name="enter_your_pack_name">팩 이름을 입력하세요</string>
+    <string name="enter_owner_name">소유자 이름을 입력하세요</string>
+    <string name="create_now">지금 만들기</string>
+    <string name="add_sticker">스티커 추가</string>
+    <string name="my_work">내 작업</string>
+    <string name="my_own_sticker">나만의 스티커</string>
+    <string name="font_change">글꼴 변경</string>
+</resources>

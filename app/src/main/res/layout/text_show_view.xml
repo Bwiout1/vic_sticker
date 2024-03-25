@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#4D000000">
+    
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.7"
+        android:orientation="horizontal"
+        android:id="@+id/middle"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="@id/middle"
+        android:background="@drawable/emoji_view_border"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/black"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/black"
+            android:button="@null"
+            />
+
+        <RadioButton
+            android:id="@+id/red"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:button="@null"
+            android:background="@drawable/red"/>
+
+        <RadioButton
+            android:id="@+id/yellow"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+
+            android:button="@null"
+            android:background="@drawable/yellow"/>
+
+        <RadioButton
+            android:id="@+id/green"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+
+            android:button="@null"
+
+            android:background="@drawable/green"/>
+
+        <RadioButton
+            android:id="@+id/blue"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:button="@null"
+            android:background="@drawable/danlan"/>
+
+        <RadioButton
+            android:id="@+id/purple"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+
+            android:button="@null"
+            android:background="@drawable/purple"/>
+
+        <RadioButton
+            android:id="@+id/anhong"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:button="@null"
+            android:background="@drawable/anhong"/>
+
+        <RadioButton
+            android:id="@+id/slan"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:button="@null"
+            android:background="@drawable/slan"/>
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/txt_kinds"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/kinds_frame"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/middle"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:text="@string/font_change" />
+
+    <ImageView
+        android:id="@+id/chosed_kinds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/middle"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        app:srcCompat="@drawable/done" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

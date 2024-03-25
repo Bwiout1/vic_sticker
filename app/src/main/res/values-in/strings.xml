@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amusing Sticker Box</string>
+    <string name="authorization_succeeded">Otorisasi berhasil!</string>
+    <string name="checkPermission_Authorization_succeeded">checkPermission: Otorisasi berhasil!</string>
+    <string name="please_open_the_relevant_permissions_otherwise_the_application_cannot_be_used_normally">Silakan buka izin yang relevan, jika tidak, aplikasi tidak dapat digunakan secara normal!</string>
+    <string name="create_sticker">Buat Stiker</string>
+    <string name="all_photos">Semua Foto</string>
+    <string name="text">Teks</string>
+    <string name="cropping">Memotong</string>
+    <string name="manual_crop">Pangkas Manual</string>
+    <string name="square_crop">Pangkas Persegi</string>
+    <string name="circle_crop">Pangkas Lingkaran</string>
+    <string name="edit">Edit</string>
+    <string name="emoji">Emoji</string>
+    <string name="are_you_sure_want_to_exit">Apakah Anda yakin ingin Keluar?</string>
+    <string name="exit">Keluar</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+    <string name="sticker_pack_name">Nama Paket Stiker</string>
+    <string name="pack_icon">Ikon Paket</string>
+    <string name="enter_your_pack_name">Masukkan nama paket Anda</string>
+    <string name="enter_owner_name">Masukkan nama pemilik</string>
+    <string name="create_now">Buat Sekarang</string>
+    <string name="add_sticker">Tambahkan Stiker</string>
+    <string name="my_work">Pekerjaan saya</string>
+    <string name="my_own_sticker">Stiker Saya Sendiri</string>
+    <string name="font_change">Perubahan font</string>
+</resources>

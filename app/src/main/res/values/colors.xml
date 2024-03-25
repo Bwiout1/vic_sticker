@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFE5274F</color>
+    <color name="yellow">#FFE6AC00</color>
+    <color name="green">#FF66C67A</color>
+    <color name="blue">#FF76C5E9</color>
+    <color name="purple">#FF4D5FFF</color>
+    <color name="anhong">#FFB32D2D</color>
+    <color name="slan">#FF1F59B2</color>
+</resources>
